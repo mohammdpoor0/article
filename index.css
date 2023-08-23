@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(225, 42, 231);
+}
+h1{text-shadow: 2px 2px 5px rgb(226, 54, 134);
+border: 2px solid;
+}
+h1{
+    font-family: IranNastaliq;
+    font-size: 50px;
+}
+@font-face {
+    font-family: "IranNastaliq.ttf";
+    src: url("IranNastaliq.ttf") format(ttf); 
+}
